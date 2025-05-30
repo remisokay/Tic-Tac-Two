@@ -1,0 +1,6 @@
+@import './base.css';
+body {
+  background: #c3f7e5;
+  background: radial-gradient(circle,rgba(195, 247, 229, 1) 0%, rgba(148, 223, 233, 0.5) 100%);
+  color: black;
+}
